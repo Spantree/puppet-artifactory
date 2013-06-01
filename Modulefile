@@ -1,5 +1,5 @@
 name    'jlust-artifactory'
-version ''
+version '1.0'
 source ''
 author 'jlust'
 license ''
